@@ -4,6 +4,3 @@ input.onButtonPressed(Button.A, function () {
 input.onButtonPressed(Button.B, function () {
     music.startMelody(music.builtInMelody(Melodies.Dadadadum), MelodyOptions.Once)
 })
-basic.forever(function () {
-	
-})
